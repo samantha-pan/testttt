@@ -1,1 +1,3 @@
-test
+---
+title: Welcome to BB
+---
